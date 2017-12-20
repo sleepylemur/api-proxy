@@ -1,0 +1,6 @@
+bob:
+  path: "/bob"
+  endpoint: "http://localhost:3000"
+dave:
+  path: "/dave"
+  endpoint: "http://localhost:3001"
